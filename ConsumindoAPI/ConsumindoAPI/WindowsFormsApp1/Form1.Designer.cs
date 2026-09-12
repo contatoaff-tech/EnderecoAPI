@@ -205,6 +205,7 @@
             this.btn_consultar.TabIndex = 14;
             this.btn_consultar.Text = "Consultar";
             this.btn_consultar.UseVisualStyleBackColor = true;
+            this.btn_consultar.Click += new System.EventHandler(this.btn_consultar_Click);
             // 
             // buttonSalvar
             // 

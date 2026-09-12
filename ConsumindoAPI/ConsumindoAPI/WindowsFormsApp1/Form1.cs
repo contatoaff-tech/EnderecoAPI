@@ -87,5 +87,15 @@ namespace WindowsFormsApp1
                 "Endereço incluído com sucesso!"
             );
         }
+
+        private void btn_consultar_Click(object sender, EventArgs e)
+        {
+            FormConsultas tela  = new FormConsultas();
+
+            if (tela.ShowDialog() == DialogResult.OK)
+            {
+                int id = tela.IdSelecionado;
+            }
+        }
     }
 }

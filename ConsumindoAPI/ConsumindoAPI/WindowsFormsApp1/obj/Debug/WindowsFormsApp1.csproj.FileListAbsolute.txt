@@ -54,3 +54,4 @@ C:\Users\felipe.csilva104\Downloads\ConsumindoAPI\ConsumindoAPI\WindowsFormsApp1
 C:\Users\felipe.csilva104\Downloads\ConsumindoAPI\ConsumindoAPI\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
 C:\Users\felipe.csilva104\Downloads\ConsumindoAPI\ConsumindoAPI\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\felipe.csilva104\Downloads\ConsumindoAPI\ConsumindoAPI\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\felipe.csilva104\Downloads\ConsumindoAPI\ConsumindoAPI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormConsultas.resources
